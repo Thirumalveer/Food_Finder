@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+input[type="text"] {
+  margin: 8px;
+
+  border: 2px solid black;
+  border-radius: 4px;
+}
